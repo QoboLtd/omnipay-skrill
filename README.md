@@ -20,7 +20,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "alfaproject/omnipay-skrill": "dev-master"
+        "qobo/omnipay-skrill": "^2.0"
     }
 }
 ```

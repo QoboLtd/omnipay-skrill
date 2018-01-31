@@ -1,5 +1,5 @@
 {
-    "name": "alfaproject/omnipay-skrill",
+    "name": "qobo/omnipay-skrill",
     "type": "library",
     "description": "Skrill driver for the Omnipay payment processing library",
     "keywords": [
@@ -29,10 +29,5 @@
     "require-dev": {
         "omnipay/tests": "~2.0",
         "satooshi/php-coveralls": "dev-master"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
